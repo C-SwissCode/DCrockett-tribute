@@ -92,8 +92,10 @@ body {
   counter-reset: section-counter;
   text-align: left;
   position: relative;
+  box-sizing: border-box;
   left: 7vw;
   margin: 0 10vw 0 5vw;
+  padding-left: 2vw;
 }
 
 h3 {
